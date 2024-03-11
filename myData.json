@@ -327,6 +327,172 @@
       "name": "NS DIAGNOSTIC ",
       "phone": " 08297765786",
       "district": "Anantapur "
+    },
+    {
+      "lat": 15.824788232292432,
+      "lon": 78.04077229999109,
+      "name": "Akshaya Blood Bank",
+      "phone": " 08518255573",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.83604677744879,
+      "lon": 78.04125626440894,
+      "name": "Kunool Blood Bank",
+      "phone": "08518222108 ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.828956077437462,
+      "lon": 78.03850669999109,
+      "name": "CARE BLOOD CENTRE",
+      "phone": " 08518222111",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.813149187061237,
+      "lon": 78.03947249999109,
+      "name": "New Life Blood Centre",
+      "phone": " 07801010202",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.743903377302077,
+      "lon": 77.8812190999911,
+      "name": "Blood bank",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.816243532251537,
+      "lon": 78.04027132943887,
+      "name": "Indian Red Cross Society Blood Bank",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.813759877413222,
+      "lon": 78.0379814999911,
+      "name": "M/S. Viswa Bharathi Blood Bank",
+      "phone": " 08518222940",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.828091177436088,
+      "lon": 78.03559062943886,
+      "name": "RR Blood Centre",
+      "phone": "08518223131 ",
+      "district": "Kurnool "
+    },
+
+    {
+      "lat": 15.824837577430886,
+      "lon": 78.0315312999911,
+      "name": "MediPulse Blood Centre",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.484801515530187,
+      "lon": 78.4819419533643,
+      "name": "Vijaya Blood Bank",
+      "phone": " 09491247878",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.828642877436968,
+      "lon": 78.03629129999109,
+      "name": "R.R. Hospital And Blood Bank",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+
+    {
+      "lat": 15.485581128511441,
+      "lon": 78.49101885888662,
+      "name": "Nandyal blood bank",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.46921177686963,
+      "lon": 78.48262969999108,
+      "name": "District Hospital Blood Bank",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.49188841173325,
+      "lon": 78.41906458894645,
+      "name": "M/S. Shantiram Medical College & General Hospital Blood Bank",
+      "phone": "08514242806 ",
+      "district": "Kurnool "
+    },
+
+    {
+      "lat": 15.666166177178942,
+      "lon": 78.08801357054332,
+      "name": "Nandyal Blood Centre",
+      "phone": " 07386477466",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.485850869313206,
+      "lon": 78.48962697667768,
+      "name": "Nandyal blood centre",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+
+    {
+      "lat": 15.831852396978798,
+      "lon": 78.04699386318487,
+      "name": "Indian Red Cross Society",
+      "phone": " 01123716441",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.167702276403531,
+      "lon": 77.37923909999107,
+      "name": "Gopi Blood Bank",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.172764676411271,
+      "lon": 77.36546109999107,
+      "name": "South Central Railway Hospital Blood Bank",
+      "phone": " 08552227166",
+      "district": "Kurnool "
+    },
+
+    {
+      "lat": 15.62167048189343,
+      "lon": 77.28078575275227,
+      "name": "Gopi blood bank,Adon",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.622251637244807,
+      "lon": 77.27469409999108,
+      "name": "ADP Voluntary Blood Centre (Adoni praja blood bank)",
+      "phone": "08331022255 ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.623145206086368,
+      "lon": 77.26903625396247,
+      "name": "RCH -II Blood Bank, Area Hospital, Adoni",
+      "phone": " ",
+      "district": "Kurnool "
+    },
+    {
+      "lat": 15.815417645495561,
+      "lon": 78.06019868833441,
+      "name": "Indian Red Cross Society",
+      "phone": " 08518255342",
+      "district": "Kurnool "
     }
   ]
 }
