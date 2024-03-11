@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "name": "ashok"
+    },
+    {
+      "name": "balu"
+    },
+    {
+      "name": "srinu"
+    }
+  ],
+  "blood banks": [
+    {
+      "lat": 14.425585811756473,
+      "lon": 78.23215593124648,
+      "name": "Andhra Pradesh Vaidya Vidhana Parishad Area Hospital - IRCS Blood Bank",
+      "phone": "",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 14.477362636927351,
+      "lon": 78.8263770468959,
+      "name": "Bruhada Blood Bank",
+      "phone": "8562225535",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 14.478298061403564,
+      "lon": 78.82656043715913,
+      "name": "Khoon Ka Rishta Charitable Trust Office",
+      "phone": "9948104130",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 14.483851453795742,
+      "lon": 78.8190763523214,
+      "name": "Indian Red Cross Society Blood Bank",
+      "phone": "8562272829",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 14.476075332856706,
+      "lon": 78.82463476462347,
+      "name": "BOAGA PARVthMMA BLOOD BANK",
+      "phone": "8500293444",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 14.433136569854856,
+      "lon": 78.86395379790206,
+      "name": "RIMSBLOOD BANK",
+      "phone": "",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 14.05979073140272,
+      "lon": 78.74792235326959,
+      "name": "Sri Deepa Blood Bank",
+      "phone": "",
+      "district": "Kadapa"
+    },
+    {
+      "lat": 13.217492223836572,
+      "lon": 79.0916822817623,
+      "name": "District Headquarters Hospital Blood Bank ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.217193173605246,
+      "lon": 79.09260942943887,
+      "name": " Indian Red Cross Society Blood Bank",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.217175673605215,
+      "lon": 79.10032899999109,
+      "name": " Indian Red Cross Society",
+      "phone": "8572220287 ",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.637699622529906,
+      "lon": 79.4043114999911,
+      "name": "SVIMS Blood Bank ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.637274054401239,
+      "lon": 79.41940325888663,
+      "name": " RAKSHANA BLOOD BANK",
+      "phone": "8772223622",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.557034674065665,
+      "lon": 78.50090999999108,
+      "name": "Blood Bank Ah Madanapalli ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.551624862757155,
+      "lon": 78.50605325766254,
+      "name": "Madanapalle Voluntary Blood Center ",
+      "phone": "7306226655 ",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.644792022559264,
+      "lon": 79.40720799999109,
+      "name": "Model Blood Bank Tpt ",
+      "phone": "9849099750 ",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.636551784074506,
+      "lon": 79.42045470796161,
+      "name": "VijayasriBlood Centre ",
+      "phone": "9949996411 ",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.635562474173682,
+      "lon": 79.42128579999107,
+      "name": "SVSCT Blood Bank ",
+      "phone": "8776667671 ",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.680735374236106,
+      "lon": 79.35089749999109,
+      "name": "Aswini Hospital Blood Bank, TTD ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.677085891935558,
+      "lon": 79.34850249999108,
+      "name": "Blood Bank of Ashwini Hospital, Tirumala Hill top ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.64090172254314,
+      "lon": 79.40992069999109,
+      "name": "SVRRGGH - Model Blood Bank",
+      "phone": "8772286290 ",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.63977819454601,
+      "lon": 79.40779700858756,
+      "name": "Government Maternity Hospital Blood Bank ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 13.090844154680747,
+      "lon": 78.61190098013432,
+      "name": "Lakshmi Bakery And States ",
+      "phone": "",
+      "district": "Chittor "
+    },
+    {
+      "lat": 14.450728423355246,
+      "lon": 79.98573564869773,
+      "name": "vijayasri blood bank ",
+      "phone": "09701233199 ",
+      "district": "Nellore "
+    },
+    {
+      "lat": 14.434083921673125,
+      "lon": 79.96863129297384,
+      "name": "NEWLIFE BLOOD CENTRE ",
+      "phone": " ",
+      "district": "Nellore "
+    },
+    {
+      "lat": 14.4515454963411,
+      "lon": 79.9850730119963,
+      "name": "Nova Blood Bank Nellore ",
+      "phone": " ",
+      "district": "Nellore "
+    },
+    {
+      "lat": 14.436035629531577,
+      "lon": 79.96463087564,
+      "name": " District Headquarters Hospital",
+      "phone": " ",
+      "district": "Nellore "
+    },
+    {
+      "lat": 14.44372881235481,
+      "lon": 79.98026223529224,
+      "name": "Indian Red Cross Society & Y.R.G. Care Comminity Clinic ",
+      "phone": " 09948169070",
+      "district": "Nellore "
+    },
+    {
+      "lat": 14.426776702326794,
+      "lon": 79.95900685220757,
+      "name": "Indian Red Cross Society Cancer Hospital ",
+      "phone": "08612306973 ",
+      "district": "Nellore "
+    }
+  ]
+}
